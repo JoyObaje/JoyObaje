@@ -5,7 +5,6 @@
 **I studied International Relations and Diplomacy (M.A) and my tentacles are spread into Tech/Data Analystics**
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on few projects to challenge my abilities on products and digital marketing, project management and data analytics ...
 - 🌱 I’m currently learning more on data analytics, PowerBI, Tableau and SQL ...
