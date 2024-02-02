@@ -24,4 +24,10 @@
 - ⚡ Fun fact:I love to learn new skills and explore new ideas ...
 -->
 
+**Arsenal**
+
+- Microsoft Word
+- Excel
+
+
 **live and let's live**
